@@ -72,3 +72,11 @@
  .coin-marketcap {
    width: 190px;
  }
+
+ .green {
+   color: #00BFA5;
+ }
+
+ .red {
+    color: #EF5350;
+ }
